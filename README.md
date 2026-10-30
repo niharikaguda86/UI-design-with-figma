@@ -34,17 +34,12 @@ Provides additional study-related information and features to support the learni
 -------------------------
 Figma
 
--------
 Figma AI
 
-----------
 UI/UX Design
 
--------------
 Auto Layout
 
-----------
 Reusable Components
 
--------------
 Responsive Design Principles
