@@ -3,6 +3,7 @@
 
 StudyAI is a modern student learning platform UI/UX design created using Figma AI. The platform aims to help students organize their academic activities, manage study schedules, track learning progress, and achieve their educational goals.
 The design focuses on a clean, user-friendly interface with a modern layout, attractive colors, reusable components, and responsive design principles.
+
 -------------------------
 ## 🎯 Objectives
 
@@ -11,6 +12,7 @@ Help students organize their daily study activities.
 Provide personalized study plans.
 Track student learning progress.
 Improve the overall learning experience through an organized dashboard.
+
 ------------------------------
 ## 🖥️ Design Screens
 ----------------------------------
@@ -31,8 +33,18 @@ Provides additional study-related information and features to support the learni
 ## 🛠️ Tools & Technologies
 -------------------------
 Figma
+
+-------
 Figma AI
+
+----------
 UI/UX Design
+
+-------------
 Auto Layout
+
+----------
 Reusable Components
+
+-------------
 Responsive Design Principles
